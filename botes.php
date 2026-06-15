@@ -2,20 +2,19 @@
 <html lang="tr">
 <head>
     <meta charset="UTF-8">
-    <meta name="google-site-verification" content="KPwKnDFpWHVRjytQqvp5c_WTOSlVS8m9UoghlGUNxZ4" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes">
     <title>Matbet Giriş - Matbet Güncel Giriş Adresi ve Mobil Portal 2026</title>
     <meta name="description" content="Matbet resmi giriş portalı - Matbet giriş için en güncel ve hızlı bağlantı. Matbet 2026 mobil giriş adresi, kesintisiz bahis ve canlı maç deneyimi için tıklayın.">
     
     <link rel="canonical" href="https://www.saporium.com/">
-    <link rel="alternate" hreflang="tr" href="https://tr.giris-matbet2026.art/">
-    <link rel="alternate" hreflang="az" href="https://tr.giris-matbet2026.art/">
-    <link rel="alternate" hreflang="pt" href="https://tr.giris-matbet2026.art/">
-    <link rel="alternate" hreflang="uk" href="https://tr.giris-matbet2026.art/">
-    <link rel="alternate" hreflang="kk" href="https://tr.giris-matbet2026.art/">
-    <link rel="alternate" hreflang="ar" href="https://tr.giris-matbet2026.art/">
+    <link rel="alternate" hreflang="tr" href="https://tr.matbet-ocuzdimi.top/">
+    <link rel="alternate" hreflang="az" href="https://tr.matbet-ocuzdimi.top/">
+    <link rel="alternate" hreflang="pt" href="https://tr.matbet-ocuzdimi.top/">
+    <link rel="alternate" hreflang="uk" href="https://tr.matbet-ocuzdimi.top/">
+    <link rel="alternate" hreflang="kk" href="https://tr.matbet-ocuzdimi.top/">
+    <link rel="alternate" hreflang="ar" href="https://tr.matbet-ocuzdimi.top/">
     
-    <link rel="icon" href="https://tr.giris-matbet2026.art/matbet.png" type="image/png">
+    <link rel="icon" href="https://tr.matbet-ocuzdimi.top/matbet.png" type="image/png">
     <style>
         :root { 
             --mat-blue: #004b93;   
@@ -256,7 +255,7 @@
     <div class="btn-pre-text">⚡ Güncel Bağlantı · Anında Yönlendirme ⚡</div>
     
     <div class="btn-wrapper">
-        <a href="https://tr.giris-matbet2026.art/" class="btn-matbet" rel="sponsored">MATBET GİRİŞ</a>
+        <a href="https://tr.matbet-ocuzdimi.top/" class="btn-matbet" rel="sponsored">MATBET GİRİŞ</a>
     </div>
 </section>
 
